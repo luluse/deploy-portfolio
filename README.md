@@ -12,10 +12,10 @@ Actual time needed to complete: 45min
 
 ### Feature 2 Add functionality
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 3 hours
 
-Start time: 
+Start time: 4pm
 
-Finish time: 
+Finish time: 10pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 6 hours
